@@ -40,4 +40,6 @@ The processor performs the following key steps during execution:
    To see that the MIPS processor is working correctly it already has a program loaded in the instruction memory, and necessary data in the memory data. The program loaded does the following:<br>
 <div align=center><i>It counts how many negative numbers are in a list of `N` elements. The list of numbers is stored in the data memory starting at address `8`, and the total count of negative numbers is written to the data memory at address `0`. When done, the count number can be found in the data memory at the address `0`.</i></div>
    
+## Acknowledgments
+I completed the project under the guidance of the teachers at the Technical University of Cluj-Napoca.
 
