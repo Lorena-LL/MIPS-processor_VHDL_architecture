@@ -17,6 +17,7 @@ The processor performs the following key steps during execution:
 - **Code folder**: Contains the VHDL source files implementing the MIPS processor and the program that counts the negative numbers.
 - **.xdc constraints file**: Specifies the constraints for the Vivado project, ensuring proper mapping of signals to the hardware pins on the Nexys A7 board.
 - **instructions.txt**: Explains the code for the program loaded in the instruction memory.
+- **.bit bitstream file**: File to be loaded on the board.
 
 ## How to Use
 
